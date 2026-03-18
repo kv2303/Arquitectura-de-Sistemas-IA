@@ -2,3 +2,15 @@ __pycache__/
 *.pyc
 .env
 venv/
+*.jpg
+*.png
+*.pdf
+*.docx
+*.xlsx
+*.doc
+*.xls
+*.ppt
+*.pptx
+*.zip
+*.tar.gz
+*.rar
